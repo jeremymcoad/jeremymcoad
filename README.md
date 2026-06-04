@@ -36,12 +36,12 @@ I operate at the intersection of **product strategy, healthcare operations, and 
 Leading product strategy and Agile delivery for enterprise patient engagement platforms across ophthalmology and optometry practices.
 
 **Key Impact**
-- 🚀 Launched enterprise patient portal improving patient access & engagement
-- 📈 Increased online scheduling conversion by ~15% via UX optimization
-- 📞 Reduced call center volume via SMS automation workflows
-- 🗓 Improved appointment utilization with waitlist & gap-fill automation
-- 🔗 Implemented CDP (Twilio Segment) for unified patient data
-- 💬 Delivered Salesforce CRM integration for omnichannel communications
+- Launched enterprise patient portal improving patient access & engagement
+- Increased online scheduling conversion by ~15% via UX optimization
+- Reduced call center volume via SMS automation workflows
+- Improved appointment utilization with waitlist & gap-fill automation
+- Implemented CDP (Twilio Segment) for unified patient data
+- Delivered Salesforce CRM integration for omnichannel communications
 
 ---
 
