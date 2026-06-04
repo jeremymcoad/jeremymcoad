@@ -1,1 +1,3 @@
-# Hello, I'm Jeremy M Coad 👋
+# Hi, I'm Jeremy 👋
+
+Product Manager | SaaS | Eye Care Technology
