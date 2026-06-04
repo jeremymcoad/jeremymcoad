@@ -1,3 +1,3 @@
 # Hi, I'm Jeremy 👋
 
-Product Manager | SaaS | Eye Care Technology
+Product Owner | Healthcare Technology Professional | Patient Engagement Platforms
