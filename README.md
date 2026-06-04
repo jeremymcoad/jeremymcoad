@@ -31,7 +31,7 @@ I operate at the intersection of **product strategy, healthcare operations, and 
 ## 💼 Experience
 
 ### Product Owner – Patient Engagement Platforms  
-**:contentReference[oaicite:0]{index=0}** | Oct 2023 – Present  
+**EyeCare Partners** | Oct 2023 – Present  
 
 Leading product strategy and Agile delivery for enterprise patient engagement platforms across ophthalmology and optometry practices.
 
@@ -46,7 +46,7 @@ Leading product strategy and Agile delivery for enterprise patient engagement pl
 ---
 
 ### Customer Relationship Manager – Healthcare Marketing Technology  
-**:contentReference[oaicite:1]{index=1}** | Aug 2022 – Oct 2023  
+**EyeCare Partners** | Aug 2022 – Oct 2023  
 
 - Built enterprise CRM and marketing automation strategy across multiple brands  
 - Implemented scalable patient communication platform (Cordial)  
@@ -56,7 +56,7 @@ Leading product strategy and Agile delivery for enterprise patient engagement pl
 ---
 
 ### Marketing Project Manager – Digital Health Initiatives  
-**:contentReference[oaicite:2]{index=2}** | Jan 2022 – Jul 2022  
+**EyeCare Partners** | Jan 2022 – Jul 2022  
 
 - Led digital transformation initiatives for patient experience platforms  
 - Implemented Sprinklr across 55+ healthcare brands  
@@ -67,7 +67,7 @@ Leading product strategy and Agile delivery for enterprise patient engagement pl
 ---
 
 ### Marketing Manager – Eyecare Services  
-**:contentReference[oaicite:3]{index=3}** | Apr 2017 – Aug 2022  
+**The Eye Institute of West Florida** | Apr 2017 – Aug 2022  
 
 - Led digital marketing and patient engagement strategy for multi-location practice  
 - Supported CRM implementation and automation initiatives  
