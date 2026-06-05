@@ -46,7 +46,9 @@ Driving alignment across engineering, design, and business stakeholders while ma
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/jeremymcoad)
+## Links
+
+[![Email](https://img.shields.io/badge/Email-jeremymatthewcoad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremymatthewcoad@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel)](https://www.jeremymcoad.com)
 
